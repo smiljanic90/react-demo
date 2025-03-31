@@ -26,7 +26,7 @@ const About = () => {
   return (
     <div className="about">
       <h1>About</h1>
-      <span>Lorem ipsum dolores sit</span>
+      <span>Lorem ipsum dolores sit ammet</span>
       <div className="about-cards">
         {cards.map((card) => (
           <AboutCard
